@@ -1,0 +1,10 @@
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadeltriangulo\Areadeltriangulo\bin\Debug\Areadeltriangulo.exe.config
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadeltriangulo\Areadeltriangulo\bin\Debug\Areadeltriangulo.exe
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadeltriangulo\Areadeltriangulo\bin\Debug\Areadeltriangulo.pdb
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadeltriangulo\Areadeltriangulo\obj\Debug\Areadeltriangulo.csproj.AssemblyReference.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadeltriangulo\Areadeltriangulo\obj\Debug\Areadeltriangulo.Form1.resources
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadeltriangulo\Areadeltriangulo\obj\Debug\Areadeltriangulo.Properties.Resources.resources
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadeltriangulo\Areadeltriangulo\obj\Debug\Areadeltriangulo.csproj.GenerateResource.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadeltriangulo\Areadeltriangulo\obj\Debug\Areadeltriangulo.csproj.CoreCompileInputs.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadeltriangulo\Areadeltriangulo\obj\Debug\Areadeltriangulo.exe
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadeltriangulo\Areadeltriangulo\obj\Debug\Areadeltriangulo.pdb

@@ -1,0 +1,10 @@
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrapecio\Areadelrapecio\bin\Debug\Areadelrapecio.exe.config
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrapecio\Areadelrapecio\bin\Debug\Areadelrapecio.exe
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrapecio\Areadelrapecio\bin\Debug\Areadelrapecio.pdb
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrapecio\Areadelrapecio\obj\Debug\Areadeltrapecio.csproj.AssemblyReference.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrapecio\Areadelrapecio\obj\Debug\Areadelrapecio.Form1.resources
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrapecio\Areadelrapecio\obj\Debug\Areadelrapecio.Properties.Resources.resources
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrapecio\Areadelrapecio\obj\Debug\Areadeltrapecio.csproj.GenerateResource.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrapecio\Areadelrapecio\obj\Debug\Areadeltrapecio.csproj.CoreCompileInputs.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrapecio\Areadelrapecio\obj\Debug\Areadelrapecio.exe
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrapecio\Areadelrapecio\obj\Debug\Areadelrapecio.pdb
