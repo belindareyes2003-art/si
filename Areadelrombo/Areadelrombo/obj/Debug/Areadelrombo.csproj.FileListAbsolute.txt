@@ -1,0 +1,10 @@
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrombo\Areadelrombo\bin\Debug\Areadelrombo.exe.config
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrombo\Areadelrombo\bin\Debug\Areadelrombo.exe
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrombo\Areadelrombo\bin\Debug\Areadelrombo.pdb
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrombo\Areadelrombo\obj\Debug\Areadelrombo.csproj.AssemblyReference.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrombo\Areadelrombo\obj\Debug\Areadelrombo.Form1.resources
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrombo\Areadelrombo\obj\Debug\Areadelrombo.Properties.Resources.resources
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrombo\Areadelrombo\obj\Debug\Areadelrombo.csproj.GenerateResource.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrombo\Areadelrombo\obj\Debug\Areadelrombo.csproj.CoreCompileInputs.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrombo\Areadelrombo\obj\Debug\Areadelrombo.exe
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelrombo\Areadelrombo\obj\Debug\Areadelrombo.pdb

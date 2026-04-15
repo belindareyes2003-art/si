@@ -1,0 +1,10 @@
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelpoligono\Areadelpoligono\bin\Debug\Areadelpoligono.exe.config
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelpoligono\Areadelpoligono\bin\Debug\Areadelpoligono.exe
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelpoligono\Areadelpoligono\bin\Debug\Areadelpoligono.pdb
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelpoligono\Areadelpoligono\obj\Debug\Areadelpoligono.csproj.AssemblyReference.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelpoligono\Areadelpoligono\obj\Debug\Areadelpoligono.Form1.resources
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelpoligono\Areadelpoligono\obj\Debug\Areadelpoligono.Properties.Resources.resources
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelpoligono\Areadelpoligono\obj\Debug\Areadelpoligono.csproj.GenerateResource.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelpoligono\Areadelpoligono\obj\Debug\Areadelpoligono.csproj.CoreCompileInputs.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelpoligono\Areadelpoligono\obj\Debug\Areadelpoligono.exe
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelpoligono\Areadelpoligono\obj\Debug\Areadelpoligono.pdb
