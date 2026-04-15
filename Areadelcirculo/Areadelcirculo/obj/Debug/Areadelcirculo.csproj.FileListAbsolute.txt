@@ -1,0 +1,10 @@
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcirculo\Areadelcirculo\bin\Debug\Areadelcirculo.exe.config
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcirculo\Areadelcirculo\bin\Debug\Areadelcirculo.exe
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcirculo\Areadelcirculo\bin\Debug\Areadelcirculo.pdb
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcirculo\Areadelcirculo\obj\Debug\Areadelcirculo.csproj.AssemblyReference.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcirculo\Areadelcirculo\obj\Debug\Areadelcirculo.Form1.resources
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcirculo\Areadelcirculo\obj\Debug\Areadelcirculo.Properties.Resources.resources
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcirculo\Areadelcirculo\obj\Debug\Areadelcirculo.csproj.GenerateResource.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcirculo\Areadelcirculo\obj\Debug\Areadelcirculo.csproj.CoreCompileInputs.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcirculo\Areadelcirculo\obj\Debug\Areadelcirculo.exe
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcirculo\Areadelcirculo\obj\Debug\Areadelcirculo.pdb

@@ -1,0 +1,10 @@
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcuadrado\Areadelcuadrado\bin\Debug\Areadelcuadrado.exe.config
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcuadrado\Areadelcuadrado\bin\Debug\Areadelcuadrado.exe
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcuadrado\Areadelcuadrado\bin\Debug\Areadelcuadrado.pdb
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcuadrado\Areadelcuadrado\obj\Debug\Areadelcuadrado.csproj.AssemblyReference.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcuadrado\Areadelcuadrado\obj\Debug\Areadelcuadrado.Form1.resources
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcuadrado\Areadelcuadrado\obj\Debug\Areadelcuadrado.Properties.Resources.resources
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcuadrado\Areadelcuadrado\obj\Debug\Areadelcuadrado.csproj.GenerateResource.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcuadrado\Areadelcuadrado\obj\Debug\Areadelcuadrado.csproj.CoreCompileInputs.cache
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcuadrado\Areadelcuadrado\obj\Debug\Areadelcuadrado.exe
+C:\Users\belin\OneDrive\Documentos\ITEC\1-Parcial\Programacion\Areadelcuadrado\Areadelcuadrado\obj\Debug\Areadelcuadrado.pdb
